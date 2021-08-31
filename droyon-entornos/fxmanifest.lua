@@ -5,5 +5,5 @@ author 'itzdroyon | twitch.tv/itzdroyon'
 
 
 client_scripts {
-	'entornos.lua',
+	'*.lua',
 }
